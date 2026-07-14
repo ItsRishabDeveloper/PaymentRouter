@@ -1,0 +1,6 @@
+*.o
+*.hi
+payment_router
+test_runner
+dist-newstyle/
+.stack-work/
